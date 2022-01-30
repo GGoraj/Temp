@@ -4,7 +4,9 @@ public class Feature {
 
     private int paula;
 
-    
+    public Feature(){
+        paula = 3;
+    }
 
     public Feature(int paula) {
         this.paula = paula;
